@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "TicTacToe",
-    "slug": "TicTacToe",
+    "name": "X0X0",
+    "slug": "X0X0",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,7 +22,9 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "backgroundColor": "#FFFFFF",
+        "package": "com.rayaangrewal.X0X0",
+        "versionCode": 1
       }
     },
     "web": {
